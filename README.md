@@ -1,4 +1,4 @@
-# Windows Authentication Security Event Analysis
+# Windows Authentication Security Analysis
 
 ## Project Overview
 This project demonstrates hands-on analysis of Windows authentication-related security events using native Windows Security logs. The objective is to simulate real SOC analyst workflows by identifying, validating, and interpreting authentication activity while maintaining operational security and data privacy.
